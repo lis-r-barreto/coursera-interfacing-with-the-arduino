@@ -1,4 +1,11 @@
-# Interfacing with the Arduino
+<p align="center">
+  <img width="1000" height="243" src="https://github.com/lis-r-barreto/coursera-interfacing-with-the-arduino/blob/master/cover.png">
+</p>
+
+Hi, my name is <b>Lis Barreto</b> and this is my repository. You will find the content of the 3rd course of the "An Introduction to Programming the Internet of Things (IOT) Specialization" offered by University of California Irvine (UCI) in collaboration with Coursera.
+
+
+<b>About this course</b>
 
 Arduino senses the environment by receiving inputs from add-on devices such as sensors, and can control the world around it by adjusting lights, motors, and other actuators. In this class we learned how and when to use the different types of sensors and how to connect them to the Arduino. Since the external world uses continuous or analog signals and the hardware is digital we learned how these signals are converted back-and-forth and how this must be considered as we program our device. We also learned about the use of Arduino-specific shields and the shields software libraries to interface with the real world. 
 
@@ -19,3 +26,9 @@ This module introduces the use of software libraries with an Arduino sketch. One
 In this module we’ll examine Arduino shields and how they are used to extend the capabilities of an Arduino-based system. Shields are printed circuit boards that are stacked on top of the Arduino together with libraries that enable the new hardware to be used through an Arduino sketch. We’ll describe the benefits of shields and their basic construction as well as the use of libraries in interfacing with each shield.
 
 This module also describes how to connect your IoT device to the Internet using shields. We focus on an Ethernet shield in order to establish a wired network connection, and a WiFi shield to establish a wireless connection.
+
+This course is elaborated by Ian G. Harris. He is currently Vice Chair of Undergraduate Education in the Computer Science Department at the University of California, Irvine. 
+
+<p align="center">
+  <img width="1000" height="618.18" src="https://github.com/lis-r-barreto/coursera-interfacing-with-the-arduino/blob/master/certificate.png">
+</p>
